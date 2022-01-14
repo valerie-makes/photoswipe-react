@@ -1,6 +1,6 @@
 {
   "name": "@valerie-makes/photoswipe-react",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "PhotoSwipe Image Gallery for React",
   "keywords": [
     "lightbox",
@@ -21,6 +21,7 @@
   "author": "Valerie Bailey",
   "type": "module",
   "main": "lib/index.js",
+  "types": "lib/types.d.ts",
   "files": [
     "lib",
     "photoswipe.css"
