@@ -1,3 +1,2 @@
-function useLightbox(gallery: string, children: string);
-function restoreFocusTo(value: HTMLElement);
-export { useLightbox, restoreFocusTo };
+export function useLightbox(gallery: string, children: string);
+export function restoreFocusTo(value: HTMLElement);
