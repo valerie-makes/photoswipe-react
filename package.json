@@ -26,8 +26,14 @@
     "lib",
     "photoswipe.css"
   ],
+  "scripts": {
+    "lint": "prettier -c lib"
+  },
   "dependencies": {
     "focus-trap": "^6.7.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
   },
   "peerDependencies": {
     "react": "^16 || ^17 || ^18"
