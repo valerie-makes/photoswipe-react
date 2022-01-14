@@ -330,11 +330,6 @@ div.pswp__img--placeholder,
   display: none;
 }
 
-/* hide arrows on touch screens */
-.pswp--touch .pswp__button--arrow {
-  visibility: hidden;
-}
-
 /* show arrows only after mouse was used */
 .pswp--has_mouse .pswp__button--arrow {
   visibility: visible;
